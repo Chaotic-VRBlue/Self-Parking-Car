@@ -20,6 +20,7 @@ The project employs various hardware components, including but not limited to:
 - IR sensors
 - Camera
 - Servo motors
+![Components](https://github.com/Chaotic-VRBlue/Self-Parking-Car/assets/115022149/d8a29446-7d0c-4bee-875f-4338ccdf3e61)
 
 **Project Workflow**
 
@@ -33,6 +34,8 @@ The project works as follows:
 - Demonstrates autonomous navigation and control.
 - Can be used as a basis for further robotics and automation projects.
 
+![Self Parking Car](https://github.com/Chaotic-VRBlue/Self-Parking-Car/assets/115022149/c573629d-c303-4707-9645-02fa7e968aa4)
+
 **Disadvantages**
 - Limited to parking maneuvers and obstacle avoidance.
 
@@ -40,3 +43,8 @@ This repository serves as a valuable resource for understanding and implementing
 
 For any inquiries or collaborations, please contact me.
 Rohith V (LinkedIn) - https://www.linkedin.com/in/v-rohith-km/
+
+
+
+https://github.com/Chaotic-VRBlue/Self-Parking-Car/assets/115022149/1c01faf6-d445-4284-bd87-f524fc8b1c2a
+
